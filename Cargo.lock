@@ -249,8 +249,8 @@ dependencies = [
 
 [[package]]
 name = "urg-rust"
-version = "0.1.0"
-source = "git+https://github.com/hs-CN/urg-rust.git#41b21f550e1e85940afd0323aeed3c70187c9954"
+version = "0.1.1"
+source = "git+https://github.com/hs-CN/urg-rust.git#a7862ede803e30fea10516872124951e881f9027"
 dependencies = [
  "bstr",
 ]

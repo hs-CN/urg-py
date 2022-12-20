@@ -11,4 +11,4 @@ crate-type = ["cdylib"]
 [dependencies]
 bstr = "1.1.0"
 pyo3 = { version = "0.17.3", features = ["extension-module"] }
-urg-rust = { git = "https://github.com/hs-CN/urg-rust.git", version = "0.1.0" }
+urg-rust = { git = "https://github.com/hs-CN/urg-rust.git" }
